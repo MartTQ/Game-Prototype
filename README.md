@@ -6,8 +6,11 @@ Link to my game prototype zip file: https://drive.google.com/drive/folders/15Nr9
 CONTROLS: 
 
 Movement: WASD
+
 Dash: L-Shift
+
 Jump: Spacebar
+
 Interact (w/ teleporter): E
 
 video of gameplay of the tutorials I have created in one scene:
